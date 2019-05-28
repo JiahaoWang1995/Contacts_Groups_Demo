@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactsGroupDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_group_title">Add new Group</string>
+    <string name="add_group_hint">Name of the new Group</string>
+    <string name="search_pos">add</string>
+    <string name="search_neg">cancel</string>
+</resources>
